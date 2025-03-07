@@ -1,4 +1,4 @@
-<h1>PokéPesquisa</h1>
+<h1 id="titulo">PokéPesquisa</h1>
 <p>Digite o nome de um Pokémon!</p>
 <form action="" method="get">
     <input type="text" name = "pokemon" value="<?php $pokemon = $_GET['pokemon'];?>">
