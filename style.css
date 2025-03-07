@@ -1,8 +1,12 @@
 body{
     text-align: center;
+    font-size: 1.2em;
+    background-color: black;
+    color: white;
 }
 #titulo{
     color: white;
     background-color: red;
     padding: 1%;
+    font-size: 3em;
 }
